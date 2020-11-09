@@ -1,27 +1,25 @@
-.blackborder { 
-    border: solid 1px black; 
-} 
-body { 
-    background-color: white; 
-} 
-div { 
-    background-color: white; 
-    border: 1px solid black; 
-    height: 100px; 
-    margin: 10px; 
-    width: 100px; 
-} 
-h1 { 
-    color: blue; 
-} 
-h2 { 
-    background-color: white; 
-} 
-.headerDiv {
-    font-size: 45px; 
-    text-transform: uppercase; 
-    margin: 10px; 
-} 
-p { 
-    color:black; 
-} 
+html {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.h2 {
+  text-align: center;
+  font-size: x-large;
+}
+
+.h3 {
+  font-size: xx-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center
+  ;
+}
+
+.column {
+  background-color: white;
+  float: inline-end
+  width: 33.33%;
+}
+
+
+
